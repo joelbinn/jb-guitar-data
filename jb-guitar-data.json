@@ -1,0 +1,717 @@
+{
+  "exercises": [
+    {
+      "id": "f9153e34-ebce-4821-95d1-48ae7e01f7fb",
+      "name": "Al Joseph: Alt Picking 34",
+      "source": "jtc",
+      "url": "https://jtcguitar.com/learn?uo_playlist=15c59796-e72f-11f0-a12e-bc97e17ea1e0&track=7797",
+      "createdAt": "2026-02-21T22:05:16.677Z"
+    },
+    {
+      "id": "2e6a52bc-8a13-4f5c-826c-be3e36304be6",
+      "name": "Al Joseph: Alt Picking 35",
+      "source": "jtc",
+      "url": "https://jtcguitar.com/learn?uo_playlist=15c59796-e72f-11f0-a12e-bc97e17ea1e0&track=7798",
+      "createdAt": "2026-02-21T22:05:38.443Z"
+    },
+    {
+      "id": "efafa0b7-3a0e-4ba6-8005-11ae1d6a43d3",
+      "name": "Al Joseph: Legato 24",
+      "source": "jtc",
+      "url": "https://jtcguitar.com/learn?uo_playlist=15c59796-e72f-11f0-a12e-bc97e17ea1e0&track=8334",
+      "createdAt": "2026-02-21T22:07:06.851Z"
+    },
+    {
+      "id": "35dc9b18-bb61-4e74-8c29-fa1714ac4c4f",
+      "name": "Al Joseph: Legato 25",
+      "source": "jtc",
+      "url": "https://jtcguitar.com/learn?uo_playlist=15c59796-e72f-11f0-a12e-bc97e17ea1e0&track=8335",
+      "createdAt": "2026-02-21T22:07:58.484Z"
+    },
+    {
+      "id": "fcf9860c-0814-4d56-be4b-735c09228743",
+      "name": "Al Joseph: Arpeggio 13",
+      "source": "jtc",
+      "url": "https://jtcguitar.com/learn?uo_playlist=15c59796-e72f-11f0-a12e-bc97e17ea1e0&track=11416",
+      "createdAt": "2026-02-21T22:10:15.055Z"
+    },
+    {
+      "id": "0b60ae66-8ec6-4894-9ef6-a39a1e27ab11",
+      "name": "Al Joseph: Alt Picking 40",
+      "source": "jtc",
+      "url": "https://jtcguitar.com/learn?uo_playlist=15c59796-e72f-11f0-a12e-bc97e17ea1e0&track=7803",
+      "createdAt": "2026-02-21T22:12:23.121Z"
+    },
+    {
+      "id": "aee46869-cc9f-4849-a0cd-41850f06f367",
+      "name": "Al Joseph: Alt Picking 41",
+      "source": "jtc",
+      "url": "https://jtcguitar.com/learn?uo_playlist=15c59796-e72f-11f0-a12e-bc97e17ea1e0&track=7804",
+      "createdAt": "2026-02-21T22:12:47.412Z"
+    },
+    {
+      "id": "6ec0ca8c-a367-4aec-9d7f-abb9bea57319",
+      "name": "Al Joseph: Legato 29",
+      "source": "jtc",
+      "url": "https://jtcguitar.com/learn?uo_playlist=15c59796-e72f-11f0-a12e-bc97e17ea1e0&track=8339",
+      "createdAt": "2026-02-21T22:13:42.703Z"
+    },
+    {
+      "id": "e4da92da-5023-4190-86df-5f3bad9ad237",
+      "name": "Al Joseph: Legato 30",
+      "source": "jtc",
+      "url": "https://jtcguitar.com/learn?uo_playlist=15c59796-e72f-11f0-a12e-bc97e17ea1e0&track=8340",
+      "createdAt": "2026-02-21T22:14:04.878Z"
+    },
+    {
+      "id": "7162b9d4-15db-4b44-ab71-c4253a3d1d6f",
+      "name": "Al Joseph: Arpeggio 14",
+      "source": "jtc",
+      "url": "https://jtcguitar.com/learn?uo_playlist=15c59796-e72f-11f0-a12e-bc97e17ea1e0&track=11417",
+      "createdAt": "2026-02-21T22:18:43.481Z"
+    },
+    {
+      "id": "00107031-a586-4148-8b00-6a5506fb998d",
+      "name": "Al Joseph: Alt Picking 42",
+      "source": "jtc",
+      "url": "https://jtcguitar.com/learn?uo_playlist=15c59796-e72f-11f0-a12e-bc97e17ea1e0&track=7805",
+      "createdAt": "2026-02-21T22:20:49.580Z"
+    },
+    {
+      "id": "7300d0b0-e315-4df0-a0e8-9ed069974b5d",
+      "name": "Al Joseph: Alt Picking 43",
+      "source": "jtc",
+      "url": "https://jtcguitar.com/learn?uo_playlist=15c59796-e72f-11f0-a12e-bc97e17ea1e0&track=7806",
+      "createdAt": "2026-02-21T22:21:26.647Z"
+    },
+    {
+      "id": "7ff42632-e5dc-4653-90c4-24c631307e15",
+      "name": "Al Joseph: Legato 37",
+      "source": "jtc",
+      "url": "https://jtcguitar.com/learn?uo_playlist=15c59796-e72f-11f0-a12e-bc97e17ea1e0&track=8347",
+      "createdAt": "2026-02-21T22:22:17.880Z"
+    },
+    {
+      "id": "7d66c497-27b9-44ca-9ab5-62b13928a261",
+      "name": "Al Joseph: Legato 40",
+      "source": "jtc",
+      "url": "https://jtcguitar.com/learn?uo_playlist=15c59796-e72f-11f0-a12e-bc97e17ea1e0&track=8350",
+      "createdAt": "2026-02-21T22:22:38.522Z"
+    },
+    {
+      "id": "4f0fd260-d6ac-404d-b9f8-5610e0bf7160",
+      "name": "Al Joseph: Sweep & Tap 36",
+      "source": "jtc",
+      "url": "https://jtcguitar.com/learn?uo_playlist=15c59796-e72f-11f0-a12e-bc97e17ea1e0&track=8726",
+      "createdAt": "2026-02-21T22:23:47.912Z"
+    },
+    {
+      "id": "958b306b-7163-48c6-888c-17f52c5fbd3c",
+      "name": "Al Joseph: Legato 42",
+      "source": "jtc",
+      "url": "https://jtcguitar.com/learn?uo_playlist=15c59796-e72f-11f0-a12e-bc97e17ea1e0&track=8352",
+      "createdAt": "2026-02-21T22:24:19.029Z"
+    },
+    {
+      "id": "0d95fa49-f73a-443b-8171-f914c2c8917a",
+      "name": "Al Joseph: Legato 44",
+      "source": "jtc",
+      "url": "https://jtcguitar.com/learn?uo_playlist=15c59796-e72f-11f0-a12e-bc97e17ea1e0&track=8354",
+      "createdAt": "2026-02-21T22:24:36.631Z"
+    },
+    {
+      "id": "2d4efa61-0c29-4a5b-8d57-19758fd39127",
+      "name": "Al Joseph: Tech chops lick 01",
+      "source": "jtc",
+      "url": "https://jtcguitar.com/learn?uo_playlist=15c59796-e72f-11f0-a12e-bc97e17ea1e0&track=13631",
+      "createdAt": "2026-02-21T22:25:11.346Z"
+    },
+    {
+      "id": "e638a193-8cfa-4737-8045-9485f3d62a26",
+      "name": "Uppvärmning",
+      "source": "other",
+      "url": "https://jtcguitar.com/learn?uo_playlist=15c59796-e72f-11f0-a12e-bc97e17ea1e0&track=7761",
+      "createdAt": "2026-02-24T20:36:58.645Z"
+    },
+    {
+      "id": "a763e715-353d-4e09-838e-c6fac7954eab",
+      "name": "Rabea Massaad 20 Progressive Rock Licks  Lick 1",
+      "source": "jtc",
+      "url": "https://jtcguitar.com/learn?package=5664&track=1614",
+      "description": "This lick is based around the C Phrygian Dominant mode (C Db E F G Ab Bb) featuring pinch harmonic bends, some legato and triplet time phrasing. A good lick to start a feature guitar solo.",
+      "createdAt": "2026-06-30T07:33:22.627Z"
+    },
+    {
+      "id": "b4d2e807-6c65-4c89-83f6-8eeeb60891e8",
+      "name": "Rabea Massaad 20 Progressive Rock Licks  Lick 2",
+      "source": "jtc",
+      "url": "https://jtcguitar.com/learn?package=5664&track=1615",
+      "description": "This lick has a Locrian sound, with odd notes from the start, but it actually uses the similar Dorian #4 scale (C D Eb F# G A Bb), the fourth mode of the harmonic minor scale. We're messing around with the rhythmic phrasing to create tension, and playing around with a mix of legato and picking patterns; this is one of my favorite licks.",
+      "createdAt": "2026-06-30T07:34:19.816Z"
+    },
+    {
+      "id": "28560a89-bbbe-46f2-bf02-5629a5fe0745",
+      "name": "Rabea Massaad 20 Progressive Rock Licks  Lick 3",
+      "source": "jtc",
+      "url": "https://jtcguitar.com/learn?package=5664&track=1616",
+      "description": "I decided to use notes from the blues scale (C Eb F F# G Bb), but the main reason it doesn't sound very bluesy is the rhythm of the lick along with the legato technique. The lick finishes with a phrase from the Dorian mode (C D Eb F G A Bb).",
+      "createdAt": "2026-06-30T07:35:44.352Z"
+    },
+    {
+      "id": "bfce8341-7550-45e3-8d7c-d2539e8f57a6",
+      "name": "Al Joseph Technical Chops: Beginner  Lick 01",
+      "source": "jtc",
+      "url": "https://jtcguitar.com/learn?package=6512&track=13608",
+      "createdAt": "2026-06-30T08:29:29.927Z"
+    },
+    {
+      "id": "226f327a-583f-4b43-95f5-1f0db8f25fd2",
+      "name": "Al Joseph Technical Chops: Beginner  Lick 02",
+      "source": "jtc",
+      "url": "https://jtcguitar.com/learn?package=6512&track=13609",
+      "createdAt": "2026-07-07T20:28:38.466Z"
+    },
+    {
+      "id": "3d850006-1a00-4060-a079-71dd638445ce",
+      "name": "Al Joseph Technical Chops: Beginner  Lick 03",
+      "source": "jtc",
+      "url": "https://jtcguitar.com/learn?package=6512&track=13610",
+      "createdAt": "2026-07-07T20:30:02.657Z"
+    },
+    {
+      "id": "cf857a39-4948-4075-907d-5dba9cd2edc0",
+      "name": "Al Joseph Progressive Developments  King David",
+      "source": "jtc",
+      "url": "https://jtcguitar.com/learn?package=4781&track=4",
+      "description": "The way I see Progressive Metal. More than just the sound quality, I've tried to make sure this track (along with the others) is as harmonically and rhythmically full as possible while maintaining the edge that metal music requires. I find that this approach fuels my creativity when composing lines and melodies. It also allows me to focus on consolidating my ideas while still allowing my lines to be as technical as I want them to be.\n\n\n\nFor this song I wanted to hit hard while touching on a couple of my main influences, John Petrucci and Marco Sfogli. Thus, using the F# Phrygian major (F# G A# B C# D E). For me, these guys are the models I use when it comes to songwriting for the guitar. You might be able to recognize the line i borrowed at the beginning ;-)\n\n\n\nPlease enjoy, and remember to bear these concepts in mind as you learn these solos!",
+      "createdAt": "2026-07-10T09:54:30.692Z"
+    }
+  ],
+  "plans": [
+    {
+      "id": "da31f09e-c557-49bb-b61a-06ac0a6c4f67",
+      "name": "Vinter 2026",
+      "exerciseIds": [
+        "e638a193-8cfa-4737-8045-9485f3d62a26",
+        "f9153e34-ebce-4821-95d1-48ae7e01f7fb",
+        "2e6a52bc-8a13-4f5c-826c-be3e36304be6",
+        "efafa0b7-3a0e-4ba6-8005-11ae1d6a43d3",
+        "35dc9b18-bb61-4e74-8c29-fa1714ac4c4f",
+        "fcf9860c-0814-4d56-be4b-735c09228743",
+        "0b60ae66-8ec6-4894-9ef6-a39a1e27ab11",
+        "aee46869-cc9f-4849-a0cd-41850f06f367",
+        "6ec0ca8c-a367-4aec-9d7f-abb9bea57319",
+        "e4da92da-5023-4190-86df-5f3bad9ad237",
+        "7162b9d4-15db-4b44-ab71-c4253a3d1d6f",
+        "00107031-a586-4148-8b00-6a5506fb998d",
+        "7300d0b0-e315-4df0-a0e8-9ed069974b5d",
+        "7ff42632-e5dc-4653-90c4-24c631307e15",
+        "7d66c497-27b9-44ca-9ab5-62b13928a261",
+        "4f0fd260-d6ac-404d-b9f8-5610e0bf7160",
+        "958b306b-7163-48c6-888c-17f52c5fbd3c",
+        "0d95fa49-f73a-443b-8171-f914c2c8917a",
+        "2d4efa61-0c29-4a5b-8d57-19758fd39127"
+      ],
+      "createdAt": "2026-02-21T11:07:00.984Z"
+    },
+    {
+      "id": "129cbd92-360b-4ce3-b931-2c17a08d4a0d",
+      "name": "Sommar 2026",
+      "exerciseIds": [
+        "e638a193-8cfa-4737-8045-9485f3d62a26",
+        "a763e715-353d-4e09-838e-c6fac7954eab",
+        "b4d2e807-6c65-4c89-83f6-8eeeb60891e8",
+        "28560a89-bbbe-46f2-bf02-5629a5fe0745",
+        "2d4efa61-0c29-4a5b-8d57-19758fd39127",
+        "bfce8341-7550-45e3-8d7c-d2539e8f57a6",
+        "226f327a-583f-4b43-95f5-1f0db8f25fd2",
+        "3d850006-1a00-4060-a079-71dd638445ce",
+        "cf857a39-4948-4075-907d-5dba9cd2edc0"
+      ],
+      "createdAt": "2026-06-30T07:29:34.682Z"
+    }
+  ],
+  "sessions": [
+    {
+      "id": "0954876c-5d2f-4105-9b8a-df7557e02758",
+      "planId": "da31f09e-c557-49bb-b61a-06ac0a6c4f67",
+      "status": "completed",
+      "currentExerciseId": "2d4efa61-0c29-4a5b-8d57-19758fd39127",
+      "exerciseState": [
+        {
+          "exerciseId": "e638a193-8cfa-4737-8045-9485f3d62a26",
+          "completed": false,
+          "timerMinutes": 3,
+          "metronomeConfig": {
+            "bpm": 70,
+            "numerator": 8,
+            "denominator": 4,
+            "beatProfile": [
+              "stark",
+              "svag",
+              "svag",
+              "svag",
+              "mellan",
+              "svag",
+              "svag",
+              "svag"
+            ]
+          }
+        },
+        {
+          "exerciseId": "f9153e34-ebce-4821-95d1-48ae7e01f7fb",
+          "completed": false,
+          "timerMinutes": 4,
+          "metronomeConfig": {
+            "bpm": 100,
+            "numerator": 4,
+            "denominator": 4,
+            "beatProfile": [
+              "stark",
+              "svag",
+              "svag",
+              "svag"
+            ]
+          }
+        },
+        {
+          "exerciseId": "2e6a52bc-8a13-4f5c-826c-be3e36304be6",
+          "completed": false,
+          "timerMinutes": 4,
+          "metronomeConfig": {
+            "bpm": 100,
+            "numerator": 4,
+            "denominator": 4,
+            "beatProfile": [
+              "stark",
+              "svag",
+              "svag",
+              "svag"
+            ]
+          }
+        },
+        {
+          "exerciseId": "efafa0b7-3a0e-4ba6-8005-11ae1d6a43d3",
+          "completed": false,
+          "timerMinutes": 4,
+          "metronomeConfig": {
+            "bpm": 100,
+            "numerator": 4,
+            "denominator": 4,
+            "beatProfile": [
+              "stark",
+              "svag",
+              "svag",
+              "svag"
+            ]
+          }
+        },
+        {
+          "exerciseId": "35dc9b18-bb61-4e74-8c29-fa1714ac4c4f",
+          "completed": false,
+          "timerMinutes": 4,
+          "metronomeConfig": {
+            "bpm": 100,
+            "numerator": 4,
+            "denominator": 4,
+            "beatProfile": [
+              "stark",
+              "svag",
+              "svag",
+              "svag"
+            ]
+          }
+        },
+        {
+          "exerciseId": "fcf9860c-0814-4d56-be4b-735c09228743",
+          "completed": false,
+          "timerMinutes": 4,
+          "metronomeConfig": {
+            "bpm": 100,
+            "numerator": 12,
+            "denominator": 4,
+            "beatProfile": [
+              "stark",
+              "svag",
+              "svag",
+              "svag",
+              "mellan",
+              "svag",
+              "svag",
+              "svag",
+              "mellan",
+              "svag",
+              "svag",
+              "svag"
+            ]
+          }
+        },
+        {
+          "exerciseId": "0b60ae66-8ec6-4894-9ef6-a39a1e27ab11",
+          "completed": false,
+          "timerMinutes": 4,
+          "metronomeConfig": {
+            "bpm": 100,
+            "numerator": 4,
+            "denominator": 4,
+            "beatProfile": [
+              "stark",
+              "svag",
+              "svag",
+              "svag"
+            ]
+          }
+        },
+        {
+          "exerciseId": "aee46869-cc9f-4849-a0cd-41850f06f367",
+          "completed": false,
+          "timerMinutes": 4,
+          "metronomeConfig": {
+            "bpm": 100,
+            "numerator": 4,
+            "denominator": 4,
+            "beatProfile": [
+              "stark",
+              "svag",
+              "svag",
+              "svag"
+            ]
+          }
+        },
+        {
+          "exerciseId": "6ec0ca8c-a367-4aec-9d7f-abb9bea57319",
+          "completed": false,
+          "timerMinutes": 4,
+          "metronomeConfig": {
+            "bpm": 100,
+            "numerator": 4,
+            "denominator": 4,
+            "beatProfile": [
+              "stark",
+              "svag",
+              "svag",
+              "svag"
+            ]
+          }
+        },
+        {
+          "exerciseId": "e4da92da-5023-4190-86df-5f3bad9ad237",
+          "completed": false,
+          "timerMinutes": 4,
+          "metronomeConfig": {
+            "bpm": 100,
+            "numerator": 4,
+            "denominator": 4,
+            "beatProfile": [
+              "stark",
+              "svag",
+              "svag",
+              "svag"
+            ]
+          }
+        },
+        {
+          "exerciseId": "7162b9d4-15db-4b44-ab71-c4253a3d1d6f",
+          "completed": false,
+          "timerMinutes": 4,
+          "metronomeConfig": {
+            "bpm": 100,
+            "numerator": 4,
+            "denominator": 4,
+            "beatProfile": [
+              "stark",
+              "svag",
+              "svag",
+              "svag"
+            ]
+          }
+        },
+        {
+          "exerciseId": "00107031-a586-4148-8b00-6a5506fb998d",
+          "completed": false,
+          "timerMinutes": 4,
+          "metronomeConfig": {
+            "bpm": 100,
+            "numerator": 4,
+            "denominator": 4,
+            "beatProfile": [
+              "stark",
+              "svag",
+              "svag",
+              "svag"
+            ]
+          }
+        },
+        {
+          "exerciseId": "7300d0b0-e315-4df0-a0e8-9ed069974b5d",
+          "completed": false,
+          "timerMinutes": 4,
+          "metronomeConfig": {
+            "bpm": 100,
+            "numerator": 4,
+            "denominator": 4,
+            "beatProfile": [
+              "stark",
+              "svag",
+              "svag",
+              "svag"
+            ]
+          }
+        },
+        {
+          "exerciseId": "7ff42632-e5dc-4653-90c4-24c631307e15",
+          "completed": false,
+          "timerMinutes": 4,
+          "metronomeConfig": {
+            "bpm": 100,
+            "numerator": 4,
+            "denominator": 4,
+            "beatProfile": [
+              "stark",
+              "svag",
+              "svag",
+              "svag"
+            ]
+          }
+        },
+        {
+          "exerciseId": "7d66c497-27b9-44ca-9ab5-62b13928a261",
+          "completed": false,
+          "timerMinutes": 4,
+          "metronomeConfig": {
+            "bpm": 100,
+            "numerator": 4,
+            "denominator": 4,
+            "beatProfile": [
+              "stark",
+              "svag",
+              "svag",
+              "svag"
+            ]
+          }
+        },
+        {
+          "exerciseId": "4f0fd260-d6ac-404d-b9f8-5610e0bf7160",
+          "completed": false,
+          "timerMinutes": 5,
+          "metronomeConfig": {
+            "bpm": 100,
+            "numerator": 4,
+            "denominator": 4,
+            "beatProfile": [
+              "stark",
+              "svag",
+              "svag",
+              "svag"
+            ]
+          }
+        },
+        {
+          "exerciseId": "958b306b-7163-48c6-888c-17f52c5fbd3c",
+          "completed": false,
+          "timerMinutes": 3,
+          "metronomeConfig": {
+            "bpm": 100,
+            "numerator": 4,
+            "denominator": 4,
+            "beatProfile": [
+              "stark",
+              "svag",
+              "svag",
+              "svag"
+            ]
+          }
+        },
+        {
+          "exerciseId": "0d95fa49-f73a-443b-8171-f914c2c8917a",
+          "completed": false,
+          "timerMinutes": 3,
+          "metronomeConfig": {
+            "bpm": 100,
+            "numerator": 4,
+            "denominator": 4,
+            "beatProfile": [
+              "stark",
+              "svag",
+              "svag",
+              "svag"
+            ]
+          }
+        },
+        {
+          "exerciseId": "2d4efa61-0c29-4a5b-8d57-19758fd39127",
+          "completed": true,
+          "timerMinutes": 5,
+          "metronomeConfig": {
+            "bpm": 100,
+            "numerator": 4,
+            "denominator": 4,
+            "beatProfile": [
+              "stark",
+              "svag",
+              "svag",
+              "svag"
+            ]
+          }
+        }
+      ],
+      "startedAt": "2026-02-24T20:37:50.096Z",
+      "updatedAt": "2026-07-24T16:59:27.829Z"
+    },
+    {
+      "id": "54554023-ae49-42ff-8748-d297ea2295fa",
+      "planId": "129cbd92-360b-4ce3-b931-2c17a08d4a0d",
+      "status": "active",
+      "currentExerciseId": "e638a193-8cfa-4737-8045-9485f3d62a26",
+      "exerciseState": [
+        {
+          "exerciseId": "e638a193-8cfa-4737-8045-9485f3d62a26",
+          "completed": false,
+          "timerMinutes": 5,
+          "metronomeConfig": {
+            "bpm": 130,
+            "numerator": 5,
+            "denominator": 4,
+            "beatProfile": [
+              "stark",
+              "svag",
+              "svag",
+              "svag",
+              "svag"
+            ]
+          }
+        },
+        {
+          "exerciseId": "a763e715-353d-4e09-838e-c6fac7954eab",
+          "completed": false,
+          "timerMinutes": 4,
+          "metronomeConfig": {
+            "bpm": 100,
+            "numerator": 4,
+            "denominator": 4,
+            "beatProfile": [
+              "stark",
+              "svag",
+              "svag",
+              "svag"
+            ]
+          }
+        },
+        {
+          "exerciseId": "b4d2e807-6c65-4c89-83f6-8eeeb60891e8",
+          "completed": false,
+          "timerMinutes": 6,
+          "metronomeConfig": {
+            "bpm": 100,
+            "numerator": 4,
+            "denominator": 4,
+            "beatProfile": [
+              "stark",
+              "svag",
+              "svag",
+              "svag"
+            ]
+          }
+        },
+        {
+          "exerciseId": "28560a89-bbbe-46f2-bf02-5629a5fe0745",
+          "completed": false,
+          "timerMinutes": 4,
+          "metronomeConfig": {
+            "bpm": 100,
+            "numerator": 4,
+            "denominator": 4,
+            "beatProfile": [
+              "stark",
+              "svag",
+              "svag",
+              "svag"
+            ]
+          }
+        },
+        {
+          "exerciseId": "2d4efa61-0c29-4a5b-8d57-19758fd39127",
+          "completed": false,
+          "timerMinutes": 4,
+          "metronomeConfig": {
+            "bpm": 100,
+            "numerator": 4,
+            "denominator": 4,
+            "beatProfile": [
+              "stark",
+              "svag",
+              "svag",
+              "svag"
+            ]
+          }
+        },
+        {
+          "exerciseId": "bfce8341-7550-45e3-8d7c-d2539e8f57a6",
+          "completed": false,
+          "timerMinutes": 4,
+          "metronomeConfig": {
+            "bpm": 100,
+            "numerator": 4,
+            "denominator": 4,
+            "beatProfile": [
+              "stark",
+              "svag",
+              "svag",
+              "svag"
+            ]
+          }
+        },
+        {
+          "exerciseId": "226f327a-583f-4b43-95f5-1f0db8f25fd2",
+          "completed": false,
+          "timerMinutes": 4,
+          "metronomeConfig": {
+            "bpm": 130,
+            "numerator": 4,
+            "denominator": 4,
+            "beatProfile": [
+              "stark",
+              "svag",
+              "svag",
+              "svag"
+            ]
+          }
+        },
+        {
+          "exerciseId": "3d850006-1a00-4060-a079-71dd638445ce",
+          "completed": false,
+          "timerMinutes": 4,
+          "metronomeConfig": {
+            "bpm": 100,
+            "numerator": 4,
+            "denominator": 4,
+            "beatProfile": [
+              "stark",
+              "svag",
+              "svag",
+              "svag"
+            ]
+          }
+        },
+        {
+          "exerciseId": "cf857a39-4948-4075-907d-5dba9cd2edc0",
+          "completed": false,
+          "timerMinutes": 8,
+          "metronomeConfig": {
+            "bpm": 100,
+            "numerator": 4,
+            "denominator": 4,
+            "beatProfile": [
+              "stark",
+              "svag",
+              "svag",
+              "svag"
+            ]
+          }
+        }
+      ],
+      "startedAt": "2026-07-10T09:56:44.322Z",
+      "updatedAt": "2026-07-24T17:14:03.270Z"
+    }
+  ]
+}
