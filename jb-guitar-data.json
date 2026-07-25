@@ -656,7 +656,7 @@
         {
           "exerciseId": "2d4efa61-0c29-4a5b-8d57-19758fd39127",
           "completed": false,
-          "timerMinutes": 5,
+          "timerMinutes": 3,
           "metronomeConfig": {
             "bpm": 100,
             "numerator": 4,
@@ -783,7 +783,7 @@
         }
       ],
       "startedAt": "2026-07-24T17:29:04.091Z",
-      "updatedAt": "2026-07-25T07:39:24.439Z"
+      "updatedAt": "2026-07-25T07:39:24.442Z"
     }
   ]
 }
