@@ -587,7 +587,7 @@
       "id": "9274481e-568e-46d9-b78a-d8fdde9b2ccf",
       "planId": "129cbd92-360b-4ce3-b931-2c17a08d4a0d",
       "status": "active",
-      "currentExerciseId": "226f327a-583f-4b43-95f5-1f0db8f25fd2",
+      "currentExerciseId": "cf857a39-4948-4075-907d-5dba9cd2edc0",
       "exerciseState": [
         {
           "exerciseId": "e638a193-8cfa-4737-8045-9485f3d62a26",
@@ -795,7 +795,7 @@
         }
       ],
       "startedAt": "2026-07-24T17:29:04.091Z",
-      "updatedAt": "2026-07-30T20:34:48.798Z"
+      "updatedAt": "2026-08-01T07:43:46.247Z"
     }
   ]
 }
