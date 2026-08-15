@@ -802,7 +802,7 @@
         {
           "exerciseId": "83b7f06e-2f26-4ba8-b183-f0f16ff1ff67",
           "completed": false,
-          "timerMinutes": 5,
+          "timerMinutes": 4,
           "notes": "",
           "metronomeConfig": {
             "bpm": 150,
@@ -873,7 +873,7 @@
         }
       ],
       "startedAt": "2026-08-15T07:39:39.322Z",
-      "updatedAt": "2026-08-15T07:42:00.499Z"
+      "updatedAt": "2026-08-15T07:42:45.415Z"
     }
   ]
 }
