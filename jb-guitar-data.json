@@ -826,7 +826,7 @@
           "timerMinutes": 3,
           "notes": "",
           "metronomeConfig": {
-            "bpm": 125,
+            "bpm": 122,
             "numerator": 8,
             "denominator": 4,
             "beatProfile": [
@@ -877,7 +877,7 @@
         }
       ],
       "startedAt": "2026-08-15T07:39:39.322Z",
-      "updatedAt": "2026-08-15T07:43:45.749Z"
+      "updatedAt": "2026-08-15T07:43:46.532Z"
     }
   ]
 }
