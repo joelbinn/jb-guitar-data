@@ -806,10 +806,11 @@
           "notes": "",
           "metronomeConfig": {
             "bpm": 150,
-            "numerator": 7,
+            "numerator": 8,
             "denominator": 4,
             "beatProfile": [
               "stark",
+              "svag",
               "svag",
               "svag",
               "svag",
@@ -872,7 +873,7 @@
         }
       ],
       "startedAt": "2026-08-15T07:39:39.322Z",
-      "updatedAt": "2026-08-15T07:41:55.540Z"
+      "updatedAt": "2026-08-15T07:41:56.078Z"
     }
   ]
 }
