@@ -627,11 +627,11 @@
       "id": "9274481e-568e-46d9-b78a-d8fdde9b2ccf",
       "planId": "129cbd92-360b-4ce3-b931-2c17a08d4a0d",
       "status": "active",
-      "currentExerciseId": "c102f2bf-f5af-41ca-9776-851de400b930",
+      "currentExerciseId": "e638a193-8cfa-4737-8045-9485f3d62a26",
       "exerciseState": [
         {
           "exerciseId": "e638a193-8cfa-4737-8045-9485f3d62a26",
-          "completed": true,
+          "completed": false,
           "timerMinutes": 4,
           "metronomeConfig": {
             "bpm": 100,
@@ -648,7 +648,7 @@
         },
         {
           "exerciseId": "a763e715-353d-4e09-838e-c6fac7954eab",
-          "completed": true,
+          "completed": false,
           "timerMinutes": 4,
           "metronomeConfig": {
             "bpm": 100,
@@ -665,7 +665,7 @@
         },
         {
           "exerciseId": "b4d2e807-6c65-4c89-83f6-8eeeb60891e8",
-          "completed": true,
+          "completed": false,
           "timerMinutes": 3,
           "metronomeConfig": {
             "bpm": 100,
@@ -682,7 +682,7 @@
         },
         {
           "exerciseId": "28560a89-bbbe-46f2-bf02-5629a5fe0745",
-          "completed": true,
+          "completed": false,
           "timerMinutes": 3,
           "metronomeConfig": {
             "bpm": 100,
@@ -699,7 +699,7 @@
         },
         {
           "exerciseId": "2d4efa61-0c29-4a5b-8d57-19758fd39127",
-          "completed": true,
+          "completed": false,
           "timerMinutes": 3,
           "metronomeConfig": {
             "bpm": 100,
@@ -716,7 +716,7 @@
         },
         {
           "exerciseId": "bfce8341-7550-45e3-8d7c-d2539e8f57a6",
-          "completed": true,
+          "completed": false,
           "timerMinutes": 3,
           "metronomeConfig": {
             "bpm": 100,
@@ -835,7 +835,7 @@
         }
       ],
       "startedAt": "2026-07-24T17:29:04.091Z",
-      "updatedAt": "2026-08-15T07:39:22.399Z"
+      "updatedAt": "2026-08-15T07:39:27.804Z"
     }
   ]
 }
