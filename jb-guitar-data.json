@@ -627,7 +627,7 @@
       "id": "475bc634-cc7c-469b-9b2d-57c0c48d16bc",
       "planId": "129cbd92-360b-4ce3-b931-2c17a08d4a0d",
       "status": "active",
-      "currentExerciseId": "3d850006-1a00-4060-a079-71dd638445ce",
+      "currentExerciseId": "49985584-0659-4e19-bd97-4a11c42f0e66",
       "exerciseState": [
         {
           "exerciseId": "e638a193-8cfa-4737-8045-9485f3d62a26",
@@ -750,7 +750,7 @@
         },
         {
           "exerciseId": "3d850006-1a00-4060-a079-71dd638445ce",
-          "completed": false,
+          "completed": true,
           "timerMinutes": 5,
           "notes": "",
           "metronomeConfig": {
@@ -877,7 +877,7 @@
         }
       ],
       "startedAt": "2026-08-15T07:39:39.322Z",
-      "updatedAt": "2026-08-31T19:58:06.743Z"
+      "updatedAt": "2026-08-31T20:02:15.260Z"
     }
   ]
 }
